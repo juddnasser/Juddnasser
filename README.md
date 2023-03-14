@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+Some things about me:
 
 - 🔭 I’m currently working on Looperhub
 - 🌱 I’m currently learning backend development with JS
