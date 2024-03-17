@@ -2,7 +2,6 @@
 
 Some things about me:
 
-- 🔭 I’m currently working on Looperhub
 - 🌱 I’m currently learning backend development with JS
-- 📫 How to reach me: [Discord: Judd Nasser#9541, Gmail: joodnasserbusiness@gmail.com]
-- ⚡ Fun fact: I enjoy coffee!
+- 📫 How to reach me: [Discord: @Judd Nasser, Gmail: joodnasserbusiness@gmail.com]
+- ⚡ Fun fact: I play video games
